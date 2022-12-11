@@ -1,6 +1,9 @@
 # Getting Started with Babylon React Native
 
 This sample repo is intended to help users get started using Babylon React Native to create React Native applications using Babylon.js.
+It is a small christmas demo to evaluate Babylon.js image tracking capabilities under android.
+
+
 
 ## Required Tools
 - [node.js](https://nodejs.org/)
